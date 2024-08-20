@@ -1,4 +1,4 @@
-![code coverage badge](https://github.com/FinchRelia/learn-cicd-starter/actions/workflow/ci.yml/badge.svg)
+![code coverage badge](https://github.com/FinchRelia/learn-cicd-starter/actions/workflows/ci.yml/badge.svg)
 
 # learn-cicd-starter (Notely)
 
